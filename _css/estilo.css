@@ -146,3 +146,43 @@ table#tabelaspecs td{
     border: 1px solid #606060;
     padding: 10px;
 }
+table#tabelaspecs td.cd{
+    background-color: aqua;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+table#tabelaspecs caption span{
+    display: block;
+    float: right;
+    color: aqua;
+    font-size: 15px;
+}
+article#noticia h2{
+    font-size: 12pt;
+    color: aquamarine;
+    background-color: aquamarine;
+    padding: 5px 0px 5px 0px ;
+    margin: 10px;
+}
+
+header#cabeçalho-artigo h1{
+    font-family: 'fontelogo',sans-serif ;
+    font-size: 20px;
+    color:blue ;
+    margin-bottom: 0px;
+}
+header#cabeçalho-artigo h2{
+    font-size: 15px;
+    color:aqua;
+    background-color: cyan;
+    margin: 0px;
+}
+
+header#cabeçalho-artigo h3{
+    font-size: 10px;
+
+}
+direita{
+    text-align: right;
+}
